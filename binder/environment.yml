@@ -13,5 +13,4 @@ dependencies:
   - xarray
   - netcdf4
   - cartopy 
-prefix: //anaconda3/envs/env_eesc
 
